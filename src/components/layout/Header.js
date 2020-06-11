@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import Logo from './partials/Logo';
+import Blogs from '../sections/Blogs';
 
 const propTypes = {
   navPosition: PropTypes.string,
@@ -113,6 +114,15 @@ const Header = ({
                     )}>
                     <li>
                       <a href="https://codezila.org" >Community</a>
+                    </li>
+                  </ul>
+                  <ul className={
+                    classNames(
+                      'list-reset text-xs',
+                      navPosition && `header-nav-${navPosition}`
+                    )}>
+                    <li>
+                      <a href="#0" >Blogs</a>
                     </li>
                   </ul>
                   {!hideSignin &&
