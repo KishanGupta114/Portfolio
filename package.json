@@ -1,5 +1,5 @@
 {
-  "name": "open-react-template",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://kishangupta114.github.io/Portfolio/",
@@ -13,10 +13,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
-  },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

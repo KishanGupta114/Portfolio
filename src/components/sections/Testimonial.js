@@ -119,6 +119,46 @@ const Testimonial = ({
               </div>
             </div>
 
+            <div className="tiles-item reveal-from-left" data-reveal-delay="200">
+              <div className="tiles-item-inner">
+                <div className="testimonial-item-content">
+                <h4 className="text-sm mb-0 align-self-center">
+                  NEO Campus Coordinator
+                  </h4>
+                  <p className="text-sm mb-0">
+                    — I am a National Engineering Olympiad Campus Coordinator of our college for spreading the scopes in the Engineering sector.
+                      </p>
+                </div>
+                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
+                  <span className="testimonial-item-name text-color-high">NEO</span>
+                  <span className="text-color-low"> / </span>
+                  <span className="testimonial-item-link">
+                    <a href="#0">Campus Coordinator</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div className="tiles-item reveal-from-left" data-reveal-delay="200">
+              <div className="tiles-item-inner">
+                <div className="testimonial-item-content">
+                <h4 className="text-sm mb-0 align-self-center">
+                  Inernshala Student Partner 18
+                  </h4>
+                  <p className="text-sm mb-0">
+                    — I have completed the 70 days Inernshala Student Partner 18 [Training Programs] with the many tasks provided by the ISP Team which is very interesting.
+                      </p>
+                </div>
+                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
+                  <span className="testimonial-item-name text-color-high">ISP 18</span>
+                  <span className="text-color-low"> / </span>
+                  <span className="testimonial-item-link">
+                    <a href="#0">Training Program</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
       </div>
