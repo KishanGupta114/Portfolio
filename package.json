@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kishangupta114.github.io/Portfolio/",
+  "homepage": "http://kishangupta114.github.io/MyPortfolio",
   "dependencies": {
     "classnames": "^2.2.6",
     "lodash": "^4.17.15",
